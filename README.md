@@ -1,3 +1,3 @@
 # Hello World! in electron
 
-![demo.png](demo.png)
+![media/demo.png](media/demo.png)
